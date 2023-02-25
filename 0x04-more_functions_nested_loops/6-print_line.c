@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - .
+ * print_line - draws a straight line.
  * @n: is the integer for the paramaters of my function
  * Return: 0
  */
